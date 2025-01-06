@@ -1,199 +1,124 @@
-Sommaire masquer
-Début
-Rôle de la science des données
-Histoire
-Domaines d'utilisation
-Compétences métier
+Data science is an interdisciplinary academic field[1] that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge and insights from potentially noisy, structured, or unstructured data.[2]
 
-Évolutions attendues du métier
-Salaires
-Notes et références
-Voir aussi
+Data science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).[3] Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.[4]
 
-Bibliographie
-Articles connexes
-Liens externes
-Science des données
+Data science is "a concept to unify statistics, data analysis, informatics, and their related methods" to "understand and analyze actual phenomena" with data.[5] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.[6] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[7][8]
 
-Article
-Discussion
-Lire
-Modifier
-Modifier le code
-Voir l’historique
+A data scientist is a professional who creates programming code and combines it with statistical knowledge to create insights from data.[9]
 
-Outils
-Apparence masquer
-Taille du texte
+Foundations
+Data science is an interdisciplinary field[10] focused on extracting knowledge from typically large data sets and applying the knowledge and insights from that data to solve problems in a wide range of application domains. The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, data visualization, information visualization, data sonification, data integration, graphic design, complex systems, communication and business.[11][12] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human–computer interaction: users should be able to intuitively control and explore data.[13][14] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[15]
 
-Petite
+Relationship to statistics
+Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[16] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[17] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g., from images, text, sensors, transactions, customer information, etc.) and emphasizes prediction and action.[18] Andrew Gelman of Columbia University has described statistics as a non-essential part of data science.[19]
 
-Standard
+Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data-science program. He describes data science as an applied field growing out of traditional statistics.[20]
 
-Grande
-Largeur
+Etymology
+Early usage
+In 1962, John Tukey described a field he called "data analysis", which resembles modern data science.[20] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C. F. Jeff Wu used the term "data science" for the first time as an alternative name for statistics.[21] Later, attendees at a 1992 statistics symposium at the University of Montpellier  II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[22][23]
 
-Standard
+The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name to computer science.[6] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[6] However, the definition was still in flux. After the 1985 lecture at the Chinese Academy of Sciences in Beijing, in 1997 C. F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting or limited to describing data.[24] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[23]
 
-Large
-Couleur (bêta)
+During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included "knowledge discovery" and "data mining".[6][25]
 
-Automatique
+Modern usage
+In 2012, technologists Thomas H. Davenport and DJ Patil declared "Data Scientist: The Sexiest Job of the 21st Century",[26] a catchphrase that was picked up even by major-city newspapers like the New York Times[27] and the Boston Globe.[28] A decade later, they reaffirmed it, stating that "the job is more in demand than ever with employers".[29]
 
-Clair
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[30] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[25] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched the Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[25] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[31]
 
-Sombre
-Science des données
+The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[32] Though it was used by the National Science Board in their 2005 report "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century", it referred broadly to any key role in managing a digital data collection.[33]
 
-Les différentes disciplines de la science des données.
-Partie de	
-Science
-Pratiqué par	
-Scientifique de données (en), architecte de données
-Objet	
-Donnée
-modifier - modifier le code - modifier WikidataDocumentation du modèle
+There is still no consensus on the definition of data science, and it is considered by some to be a buzzword.[34] Big data is a related marketing term.[35] Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.[36]
 
-La science des données est un domaine interdisciplinaire qui utilise les mathématiques, les statistiques, le calcul scientifique, les méthodes scientifiques, les process, les algorithmes et les systèmes informatiques automatisés pour extraire et extrapoler des connaissances à partir de grandes quantités de données brutes structurées ou non 1,2,3.
+Data science and data analysis
+summary statistics and scatterplots showing the Datasaurus dozen data set
+Example for the usefulness of exploratory data analysis as demonstrated using the Datasaurus dozen data set
+Data science and data analysis are both important disciplines in the field of data management and analysis, but they differ in several key ways. While both fields involve working with data, data science is more of an interdisciplinary field that involves the application of statistical, computational, and machine learning methods to extract insights from data and make predictions, while data analysis is more focused on the examination and interpretation of data to identify patterns and trends.[37][38]
 
-Elle est souvent associée aux données massives, à l'analyse des données, aux techniques d'apprentissage automatique comme le Machine Learning et le Deep Learning.
+Data analysis typically involves working with smaller, structured datasets to answer specific questions or solve specific problems. This can involve tasks such as data cleaning, data visualization, and exploratory data analysis to gain insights into the data and develop hypotheses about relationships between variables. Data analysts typically use statistical methods to test these hypotheses and draw conclusions from the data. For example, a data analyst might analyze sales data to identify trends in customer behavior and make recommendations for marketing strategies.[37]
 
-Rôle de la science des données
-La science des données permet de produire des algorithmes et méthodes d’analyse de grandes masses de données afin d’en extraire des informations et de réaliser des modèles et prédictions utiles.
+Data science, on the other hand, is a more complex and iterative process that involves working with larger, more complex datasets that often require advanced computational and statistical methods to analyze. Data scientists often work with unstructured data such as text or images and use machine learning algorithms to build predictive models and make data-driven decisions. In addition to statistical analysis, data science often involves tasks such as data preprocessing, feature engineering, and model selection. For instance, a data scientist might develop a recommendation system for an e-commerce platform by analyzing user behavior patterns and using machine learning algorithms to predict user preferences.[38][39]
 
-Pour cela, elle se met en œuvre selon les étapes suivantes4 :
+While data analysis focuses on extracting insights from existing data, data science goes beyond that by incorporating the development and implementation of predictive models to make informed decisions. Data scientists are often responsible for collecting and cleaning data, selecting appropriate analytical techniques, and deploying models in real-world scenarios. They work at the intersection of mathematics, computer science, and domain expertise to solve complex problems and uncover hidden patterns in large datasets.[38]
 
-Bien comprendre et définir l'objectif et problème à résoudre
-Elaborer des stratégies d’analyse des données,
-Recueillir, explorer et analyser les données par la fouille de données et l'analyse exploratoire des données,
-Préparer les données : par le nettoyage et le formatage,
-Créer des modèles avec les données à l'aide de différentes méthodes et algorithmes tels:
-les modèles d'Apprentissage automatique,
-les modèles d'Apprentissage profond,
-Aider au déploiement et à l'exploitation des modèles et de leurs résultats:
-sous forme brute
-sous forme de visuels comme des tableaux de bord
-sous forme d'application ou d'outils d'aide à la décision.
-De plus, la science des données s’enrichit constamment grâce à l’évolution des outils et technologies, comme les plateformes de cloud computing, qui permettent de traiter des volumes de données toujours plus importants. Cette progression ouvre de nouvelles perspectives dans des domaines variés tels que la santé, la finance, l’environnement et bien d’autres secteurs où l’analyse des données joue un rôle clé5.
+Despite these differences, data science and data analysis are closely related fields and often require similar skill sets. Both fields require a solid foundation in statistics, programming, and data visualization, as well as the ability to communicate findings effectively to both technical and non-technical audiences. Both fields benefit from critical thinking and domain knowledge, as understanding the context and nuances of the data is essential for accurate analysis and modeling.[37][38]
 
-L'expert en science des données, aussi appelé data scientist, peut réaliser ces missions seul ou en équipe pour être plus efficace, avec la participation:
+In summary, data analysis and data science are distinct yet interconnected disciplines within the broader field of data management and analysis. Data analysis focuses on extracting insights and drawing conclusions from structured data, while data science involves a more comprehensive approach that combines statistical analysis, computational methods, and machine learning to extract insights, build predictive models, and drive data-driven decision-making. Both fields use data to understand patterns, make informed decisions, and solve complex problems across various domains.
 
-d'un expert métier qui a les connaissances métier et terrain pour définir le problème a analyser et résoudre,
-d'un ingénieur de données qui recueille, et prépare les données et leur disponibilité,
-d'un architecte informatique qui supervise les processus et l’infrastructure sous-jacents,
-et d'un développeur d’application qui déploie les modèles ou résultats de l’analyse sous forme d'application.
-Histoire
-	Cette section a besoin d'être recyclée (6 janvier 2024).
-Motif : à développer et sourcer. Améliorez-la ou discutez des points à améliorer.
-Le terme de "donnée" est défini depuis 1840 comme un outil de raisonnement et de démonstration6. L'apparition et le développement des bases de données et d'internet entre la fin du 20ème siècle et le début du 21ème ont favorisé l'émergence des sciences de traitement de la donnée7. La science des données répond ainsi à la complexité croissante et au volume en croissance rapide du nombre de données numériques disponibles dans le monde, d'où l'intérêt grandissant pour les "données massives".
-
-Par ailleurs, La croissance exponentielle des capacités de calcul et la facilitation de l'accessibilité aux technologies de l'information ont permis le développement d’algorithmes plus efficaces et plus complexes ainsi que la simplification de techniques statistiques, connues depuis longtemps mais dont le déploiement n'était pas pratique ou trop coûteux7.
-
-L'essor de techniques d’apprentissage automatique et d’intelligence artificielle a également participé à la croissance de cette discipline et à son ouverture vers de nouveaux champs, surtout grâce à son importance économique pour augmenter la consommation et la productivité 8. Par exemple, l'analyse prédictive, le traitement automatique des langues ou la vision par ordinateur, en passant par l’analyse statistique pure de données fortement structurées à l’analyse de données semi-structurées (XML par exemple) pour notamment mettre « en correspondance des bases de données et de données textuelles »9.
-
-Domaines d'utilisation
-	Cette section a besoin d'être recyclée (6 janvier 2024).
-Motif : Liste à la Prévert. Peu d'intérêt car la Data Science est partout .. dans tous les domaines ayant des données numérisées .. reformuler et trouver de meilleures sources. Améliorez-la ou discutez des points à améliorer.
-Parmi les plus grands utilisateurs de la science des données figurent (par ordre alphabétique)
-
-Aéronautique
-Automobile10
-Agriculture10
-Assurance10
-Banque & finance, dont "Trading financier"10
-Distribution10
-Econométrie, économie
-Énergie10
-Géographie11
-Industrie manufacturière 10
-Médias (ex : journalisme de données) & loisirs10
-Météorologie
-Moteurs de recherche
-Services (industrie des services)10
-Santé publique10 (ex : épidémiologie, toxicologie, écotoxicologie...)
-TIC, télécommunications10
-Tourisme
-Transport
-Urbanisme, villes intelligentes, smartgrid
-Publicité
-commerce électronique
-Environnement
-Climat
-Compétences métier
-Distincte de l’analyse métier et de l’ingénierie des données, la science des données va plus loin que l’analyste de données, notamment par l'utilisation de l’apprentissage automatique. Un maître en science des données est quelqu'un qui peut utiliser des méthodes, outils et technologies adaptées au traitement des données pour extraire des observations utiles à partir de données confuses12.
-
-Pour cela, il doit être rigoureux, mais curieux et créatif, capable de trouver les données les plus adéquates pour une question et avoir une pensée structurée lui permettant de décomposer et organiser les questions et les processus13.
-
-Il doit savoir manipuler et nettoyer les données et les préparer dans un format adapté à l’analyse. Il doit aussi maitriser les sciences des données qui nécessitent une expertise pluridisciplinaire13. Son expertise recouvre les domaines scientifiques, méthodologiques, statistiques (maitrise des statistiques descriptives ; moyennes, médianes, variance, déviation, distributions de probabilités, échantillonnage, statistiques inférentielles, etc.), des outils d'ingénierie logicielle du domaine (ex. SAS, R), de l'algorithmique de l'apprentissage automatique, de l'apprentissage profond. Pour déduire des tendances prospectives probables et de bons modèles prédictifs, il peut également s'appuyer sur des bibliothèques (ex. : TensorFlow, Keras, PyTorch). Évidemment, ces découvertes s'appuient autant sur les données du passé que du présent. Il doit maîtriser au moins un langage de programmation (Python, R, Java, Julia, Perl ou C/C++) et un langage de requête de base de données (SQL)13. Le scientifique de données doit aussi maîtriser les questions de régression et de classification, d'apprentissage supervisé ou non supervisé. Il doit aussi avoir de solides compétences en droit des données et une maitrise des aspects éthiques et sociaux, notamment concernant la confidentialité, l'anonymisation, la sécurité des données sensibles (données personnelles et de santé notamment)13.
-
-La maîtrise de la plateforme Hadoop, d'outils de traitement (ex. Hive, Pig...), d'outils d'infonuagique (ex Amazon S3) et la gestion de données non structurées (ex. données issues des réseaux sociaux, de flux vidéo ou audio) est un avantage et peut être requise par certains employeurs. Des notions d'intelligence artificielle sont de plus en plus requises (réseaux de neurones artificiels, etc.)13. In fine, le scientifique de données doit idéalement aussi être pédagogique, notamment par la maîtrise de la visualisation de données, et il doit être en mesure de déployer les modèles d'apprentissage automatique qu'il a mis au point (c'est-à-dire les rendre utilisables par des non-spécialistes)13. En rendant les modèles utilisables par les non spécialistes, le scientifique de données crée un « produit de données » (Data product). Celui-ci peut être une application sur un portable ou une application web. Les utilisateurs de R développent généralement leurs produits de données sur Shiny.
-
-Selon Le Big Data 88 % des scientifiques de données ont au moins une maitrise (master) et 46 % un doctorat. Parmi ces scientifiques de données, 32 % proviennent du domaine des mathématiques et des statistiques, 19 % des sciences informatiques et 16 % d'écoles d’ingénieurs13.
-
-Selon le classement des 25 ou 50 « meilleurs » métiers du monde fait aux États-Unis par le site de recherche d’emploi Glassdoor, celui de data scientist arrivait en tête, devant les « ingénieurs DevOps » et les « Data Technicians »13.
-
-Évolutions attendues du métier
-Gartner Inc. estime que [réf. souhaitée] plus de 40 % des tâches du scientifique des données seront rapidement automatisées (avant 2020)[réf. obsolète], ce qui devrait favoriser une augmentation de leur productivité, mais aussi l’apparition de « citoyens scientifiques de données » (citizen data scientists en anglais) et d’approches collaboratives (ex. Wikidata, Wikipédia).
-
-Des questions éthiques et de démocratie se posent avec les vols massifs de données personnelles ou les usages manipulateurs de données. Un exemple d'usage qui pose des questions éthiques et qui peut influencer la démocratie est celui du scandale de Facebook et Cambridge Analytica/AggregateIQ. Un usage douteux, voire illégal, de données massives d'utilisateurs de réseaux sociaux a été utilisé au profit de quelques candidats (ex. Donald Trump en contexte d’élections aux États-Unis) ou d’idéologies (ex. en faveur du parti du Brexit lors du référendum sur l’appartenance du Royaume-Uni à l’Union européenne). Des conséquences peuvent s’ensuivre, notamment dans le contexte du Brexit où le Royaume-Uni a finalement quitté l’Union européenne.[réf. souhaitée]
-
-Salaires
-Selon Glassdoor, le salaire annuel d’un scientifique de données est en moyenne de 116 840 dollars et fin janvier[Quand ?] Glassdoor estimait à 1 736 le nombre d’offres d’emploi. Le salaire annuel moyen d’un scientifique de données américain serait de 110 000 dollars, tandis qu’en France il serait entre 45 000 et 50 000 euros[réf. nécessaire]. Malgré l’apparition de nombreuses formations, les employeurs peinent encore à trouver des profils assez qualifiés14.
-
-Selon les plateformes de Freelance, le TJM (tarif journalier moyen) pour les "data Scientist" en freelancing se situe à 570 euros[réf. nécessaire] en moyenne pour les profils seniors et peut aller jusqu'à 1100 euros pour des projets d'envergure et complexes.
-
-Notes et références
-(en) Vasant Dhar, « Data Science and Prediction », Communications of the ACM, no 12,‎ décembre 2013, p. 64-73 (DOI 10.1145/2500499, lire en ligne [archive]).
-(en) « The key word in "Data Science" is not Data, it is Science [archive] », sur simplystats, 12 décembre 2014 (consulté le 25 mars 2015).
-V. Dhar, « Data science and prediction », Communications of the ACM, vol. 56, no 12,‎ 2013, p. 64–73 (DOI 10.1145/2500499, S2CID 6107147, lire en ligne [archive du 9 novembre 2014], consulté le 2 septembre 2015)
-« Qu’est-ce que la data science ? [archive] », sur oracle.com (consulté le 1er janvier 2024).
-(en) « Cloud Computing in Healthcare: How It's Used and 17 Examples [archive] », sur Built In (consulté le 2 décembre 2024)
-« Trésor de la Langue Française Informatisé, à l’entrée « donnée ». [archive] », sur atilf.atilf.fr (consulté le 9 mai 2024).
-Cédric du Mouza, « De l’histoire numérique à l’histoire données ? », Les Cahiers de Framespa, no 42,‎ 4 juillet 2023 (lire en ligne [archive])
-Jean-Bernard Mateu et Jean-Jacques Pluchart, « L’économie de l’intelligence artificielle », Revue d'économie financière, vol. 135, no 3,‎ 2019, p. 257–272 (ISSN 0987-3368, DOI 10.3917/ecofi.135.0257, lire en ligne [archive], consulté le 9 mai 2024)
-Stage Recherche-M2 : Mise en correspondance de bases de données etdedonnées textuelles [archive], encadré par Mathieu Roche (TETIS-Cirad & LIRMM, Montpellier) et Sophie Fortuno (TETIS-Cirad, Montpellier) « http://www.lirmm.fr/~mroche/Web/STAGES/Stages_2015/SujetM2Heterogeniete_MR_v2.pdf »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?)
-Abiteboul, S., Bancilhon, F., Bourdoncle, F., Clemencon, S., De La Higuera, C., Saporta, G., & Soulié, F. F. (2014). L'émergence d'une nouvelle filière de formation:«d ata scientist s» [archive] (Doctoral dissertation, INRIA Saclay)
-« Data Science Blog [archive] », sur France Data Science Blog, 2020 (consulté le 19 juin 2020).
-« Science des données [archive] », sur writingstatement.com.
-+Bastien L, « Voici toutes les compétences nécessaires pour devenir Data Scientist [archive] », sur LeBigData.fr, 25 février 2021 (consulté le 9 mars 2021).
-« Salaire Data Scientist : combien gagne un scientifique des données ? [archive] », sur DataScientest.com, 3 mars 2021 (consulté le 18 mars 2022).
+Data Science as an Academic Discipline
+As illustrated in the previous sections, there is substantially some considerable differences between data science, data analysis and statistics. Consequently, just like statistics grew into an independent field from applied mathematics, similarly data science has emerged as a independent field and has gained traction over the recent years. The unique demand for professional skills on computerized data analysis skills has exploded due to the increasing amounts of data emanating from a variety of independent sources. Whereas some of these highly sought skills can be provided by statisticians, the lack of high algorithmic writing skills makes them less preferred than trained data scientists who provide unique expertise on skills such as NoSQL, Apache Hadoop, Cloud Computing platforms and use of complex networks. This paradigm shift has seen various institution craft academic programmes to prepare skilled labor for the market. Some of the institutions offering degree programmes in data science include Stanford University, Harvard University, University of Oxford, ETH Zurich, Meru University[1] among many others.
 
 
-Voir aussi
-Sur les autres projets Wikimedia :
 
-Science des données, sur Wikimedia Commons
-Bibliographie
-(en) William Cleveland, « Data Science : An Action Plan for Expanding the Technical Areas of the Field of Statistics », International Statistical Review / Revue internationale de statistique, vol. 69,‎ 2001, p. 21-26
-Serge Abiteboul, Sciences des données : De la logique du premier ordre à la Toile, Fayard, coll. « Collège de France », 2012 (lire en ligne [archive])
-(en) Rachel Schutt et Cathy O'Neil, Doing Data Science : Straight Talk from the Frontline, O'Reilly Media, octobre 2013, 406 p. (ISBN 978-1-4493-5865-5)
-Articles connexes
-Apprentissage automatique
+Cloud computing for data science
+
+A cloud-based architecture for enabling big data analytics. Data flows from various sources, such as personal computers, laptops, and smart phones, through cloud services for processing and analysis, finally leading to various big data applications.
+Cloud computing can offer access to large amounts of computational power and storage.[40] In big data, where volumes of information are continually generated and processed, these platforms can be used to handle complex and resource-intensive analytical tasks.[41]
+
+Some distributed computing frameworks are designed to handle big data workloads. These frameworks can enable data scientists to process and analyze large datasets in parallel, which can reducing processing times.[42]
+
+Ethical consideration in data science
+Data science involve collecting, processing, and analyzing data which often including personal and sensitive information. Ethical concerns include potential privacy violations, bias perpetuation, and negative societal impacts [43][44]
+
+Machine learning models can amplify existing biases present in training data, leading to discriminatory or unfair outcomes.[45][46]
+
+See also
+Python (programming language)
+R (programming language)
+Data engineering
 Big data
-Économétrie
-Intelligence artificielle
-Interopérabilité
-Kaggle
-Métadonnée
-Méthodologie politique
-Ontologie (informatique)
-Qualité des données
-Sociologie quantitative
-Visualisation de données
-Liens externes
-Journal of Data Science [archive]
-CODATA Data Science Journal [archive]
- [afficher]
-v · m
-Big data
- [afficher]
-v · m
-Science des données
- [afficher]
-v · m
-Informatique théorique
-icône décorative Portail des données icône décorative Portail des probabilités et de la statistique icône décorative Portail de l’informatique
-Catégories : Science de l'informationScience des donnéesStatistiques[+]
-La dernière modification de cette page a été faite le 20 décembre 2024 à 16:23.
-Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
-Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Machine learning
+Bioinformatics
+Astroinformatics
+References
+ Donoho, David (2017). "50 Years of Data Science". Journal of Computational and Graphical Statistics. 26 (4): 745–766. doi:10.1080/10618600.2017.1384734. S2CID 114558008.
+ Dhar, V. (2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147. Archived from the original on 9 November 2014. Retrieved 2 September 2015.
+ Danyluk, A.; Leidig, P. (2021). Computing Competencies for Undergraduate Data Science Curricula (PDF). ACM Data Science Task Force Final Report (Report).
+ Mike, Koby; Hazzan, Orit (20 January 2023). "What is Data Science?". Communications of the ACM. 66 (2): 12–13. doi:10.1145/3575663. ISSN 0001-0782.
+ Hayashi, Chikio (1 January 1998). "What is Data Science ? Fundamental Concepts and a Heuristic Example". In Hayashi, Chikio; Yajima, Keiji; Bock, Hans-Hermann; Ohsumi, Noboru; Tanaka, Yutaka; Baba, Yasumasa (eds.). Data Science, Classification, and Related Methods. Studies in Classification, Data Analysis, and Knowledge Organization. Springer Japan. pp. 40–51. doi:10.1007/978-4-431-65950-1_3. ISBN 9784431702085.
+ Cao, Longbing (29 June 2017). "Data Science: A Comprehensive Overview". ACM Computing Surveys. 50 (3): 43:1–43:42. arXiv:2007.03606. doi:10.1145/3076253. ISSN 0360-0300. S2CID 207595944.
+ Tony Hey; Stewart Tansley; Kristin Michele Tolle (2009). The Fourth Paradigm: Data-intensive Scientific Discovery. Microsoft Research. ISBN 978-0-9825442-0-4. Archived from the original on 20 March 2017.
+ Bell, G.; Hey, T.; Szalay, A. (2009). "Computer Science: Beyond the Data Deluge". Science. 323 (5919): 1297–1298. doi:10.1126/science.1170411. ISSN 0036-8075. PMID 19265007. S2CID 9743327.
+ Davenport, Thomas H.; Patil, D. J. (October 2012). "Data Scientist: The Sexiest Job of the 21st Century". Harvard Business Review. 90 (10): 70–76, 128. PMID 23074866. Retrieved 18 January 2016.
+ Emmert-Streib, Frank; Dehmer, Matthias (2018). "Defining data science by a data-driven quantification of the community". Machine Learning and Knowledge Extraction. 1: 235–251. doi:10.3390/make1010015.
+ "1. Introduction: What Is Data Science?". Doing Data Science [Book]. O’Reilly. Retrieved 3 April 2020.
+ "the three sexy skills of data geeks". m.e.driscoll: data utopian. 27 May 2009. Retrieved 3 April 2020.
+ Yau, Nathan (4 June 2009). "Rise of the Data Scientist". FlowingData. Retrieved 3 April 2020.
+ "Basic Example". benfry.com. Retrieved 3 April 2020.
+ "ASA Statement on the Role of Statistics in Data Science". AmStatNews. American Statistical Association. 1 October 2015. Archived from the original on 20 June 2019. Retrieved 29 May 2019.
+ "Nate Silver: What I need from statisticians". Statistics Views. 23 August 2013. Retrieved 3 April 2020.
+ "What's the Difference Between Data Science and Statistics?". Priceonomics. 13 October 2015. Retrieved 3 April 2020.
+ Vasant Dhar (1 December 2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147.
+ "Statistics is the least important part of data science « Statistical Modeling, Causal Inference, and Social Science". statmodeling.stat.columbia.edu. Retrieved 3 April 2020.
+ Donoho, David (18 September 2015). "50 years of Data Science" (PDF). Retrieved 2 April 2020.
+ Wu, C. F. Jeff (1986). "Future directions of statistical research in China: a historical perspective" (PDF). Application of Statistics and Management. 1: 1–7. Retrieved 29 November 2020.
+ Escoufier, Yves; Hayashi, Chikio; Fichet, Bernard, eds. (1995). Data science and its applications. Tokyo: Academic Press/Harcourt Brace. ISBN 0-12-241770-4. OCLC 489990740.
+ Murtagh, Fionn; Devlin, Keith (2018). "The Development of Data Science: Implications for Education, Employment, Research, and the Data Revolution for Sustainable Development". Big Data and Cognitive Computing. 2 (2): 14. doi:10.3390/bdcc2020014.
+ Wu, C. F. Jeff. "Statistics=Data Science?" (PDF). Retrieved 2 April 2020.
+ Press, Gil. "A Very Short History of Data Science". Forbes. Retrieved 3 April 2020.
+ Davenport, Thomas (1 October 2012). "Data Scientist: The Sexiest Job of the 21st Century". Harvard Business Review. Retrieved 10 October 2022.
+ Miller, Claire (4 April 2013). "Data Science: The Numbers of Our Lives". New York Times. New York City. Retrieved 10 October 2022.
+ Borchers, Callum (11 November 2015). "Behind the scenes of the 'sexiest job of the 21st century'". Boston Globe. Boston. Retrieved 10 October 2022.
+ Davenport, Thomas (15 July 2022). "Is Data Scientist Still the Sexiest Job of the 21st Century?". Harvard Business Review. Retrieved 10 October 2022.
+ Gupta, Shanti (11 December 2015). "William S. Cleveland". Retrieved 2 April 2020.
+ Talley, Jill (1 June 2016). "ASA Expands Scope, Outreach to Foster Growth, Collaboration in Data Science". Amstat News. American Statistical Association.. In 2013 the first European Conference on Data Analysis (ECDA2013) started in Luxembourg the process which founded the European Association for Data Science (EuADS) www.euads.org in Luxembourg in 2015.
+ Davenport, Thomas H.; Patil, D. J. (1 October 2012). "Data Scientist: The Sexiest Job of the 21st Century". Harvard Business Review. No. October 2012. ISSN 0017-8012. Retrieved 3 April 2020.
+ "US NSF – NSB-05-40, Long-Lived Digital Data Collections Enabling Research and Education in the 21st Century". www.nsf.gov. Retrieved 3 April 2020.
+ Press, Gil. "Data Science: What's The Half-Life of a Buzzword?". Forbes. Retrieved 3 April 2020.
+ Pham, Peter. "The Impacts of Big Data That You May Not Have Heard Of". Forbes. Retrieved 3 April 2020.
+ Martin, Sophia (20 September 2019). "How Data Science will Impact Future of Businesses?" (PDF). Medium. Retrieved 3 April 2020.
+ James, Gareth; Witten, Daniela; Hastie, Trevor; Tibshirani, Robert (29 September 2017). An Introduction to Statistical Learning: with Applications in R. Springer.
+ Provost, Foster; Tom Fawcett (1 August 2013). "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking". O'Reilly Media, Inc.
+ Han, Kamber; Pei (2011). Data Mining: Concepts and Techniques. ISBN 9780123814791.
+ Hashem, Ibrahim Abaker Targio; Yaqoob, Ibrar; Anuar, Nor Badrul; Mokhtar, Salimah; Gani, Abdullah; Ullah Khan, Samee (2015). "The rise of "big data" on cloud computing: Review and open research issues". Information Systems. 47: 98–115. doi:10.1016/j.is.2014.07.006.
+ Qiu, Junfei; Wu, Qihui; Ding, Guoru; Xu, Yuhua; Feng, Shuo (2016). "A survey of machine learning for big data processing". EURASIP Journal on Advances in Signal Processing. 2016 (1). doi:10.1186/s13634-016-0355-x. ISSN 1687-6180.
+ Armbrust, Michael; Xin, Reynold S.; Lian, Cheng; Huai, Yin; Liu, Davies; Bradley, Joseph K.; Meng, Xiangrui; Kaftan, Tomer; Franklin, Michael J.; Ghodsi, Ali; Zaharia, Matei (27 May 2015). "Spark SQL: Relational Data Processing in Spark". Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data. ACM. pp. 1383–1394. doi:10.1145/2723372.2742797. ISBN 978-1-4503-2758-9.
+ Floridi, Luciano; Taddeo, Mariarosaria (28 December 2016). "What is data ethics?". Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 374 (2083): 20160360. Bibcode:2016RSPTA.37460360F. doi:10.1098/rsta.2016.0360. ISSN 1364-503X. PMC 5124072. PMID 28336805.
+ Mittelstadt, Brent Daniel; Floridi, Luciano (2016). "The Ethics of Big Data: Current and Foreseeable Issues in Biomedical Contexts". Science and Engineering Ethics. 22 (2): 303–341. doi:10.1007/s11948-015-9652-2. ISSN 1353-3452. PMID 26002496.
+ Barocas, Solon; Selbst, Andrew D (2016). "Big Data's Disparate Impact". California Law Review. doi:10.15779/Z38BG31 – via Berkeley Law Library Catalog.
+ Caliskan, Aylin; Bryson, Joanna J.; Narayanan, Arvind (14 April 2017). "Semantics derived automatically from language corpora contain human-like biases". Science. 356 (6334): 183–186. arXiv:1608.07187. Bibcode:2017Sci...356..183C. doi:10.1126/science.aal4230. ISSN 0036-8075.
+vte
+Data
+AcquisitionAugmentationAnalysisArchaeologyBigCleansingCollectionCompressionCorruptionCurationDegradationEcosystemEditingETL/ELT ExtractTransformLoadEthicsFarmingFormat managementFusionGovernance CooperativesInfrastructureIntegrationIntegrityLibraryLineageLossManagementMigrationMiningPhilanthropyPre-processingPreservationProcessingProtection (privacy)Publishing Open dataRecoveryReductionRetentionQualityScienceScrapingScrubbingSecurityStewardshipStorageSynchronizationTypeValidationWarehouseWrangling/munging
+Categories: Information scienceComputer occupationsComputational fields of studyData analysisData science
