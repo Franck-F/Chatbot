@@ -1,0 +1,6 @@
+Python version: >=3.4 <=3.8
+pip install chatterbot
+pip install spacy
+pip install nltk
+pip install numpy
+pip install pint 
